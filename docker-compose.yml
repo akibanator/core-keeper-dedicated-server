@@ -1,0 +1,7 @@
+version: "0.1"
+
+services:
+  core-keeper:
+    image: corekeeper
+    volumes:
+      - ./game_data:/corekeeper/game_data

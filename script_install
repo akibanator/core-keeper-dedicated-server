@@ -1,0 +1,4 @@
+force_install_dir /corekeeper/game
+login anonymous
+app_update 1963720 validate
+quit
